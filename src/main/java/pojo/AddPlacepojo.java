@@ -2,6 +2,8 @@ package pojo;
 
 import java.util.List;
 
+import pojo.Location;
+
 public class AddPlacepojo {
 	
 	private int accuracy;

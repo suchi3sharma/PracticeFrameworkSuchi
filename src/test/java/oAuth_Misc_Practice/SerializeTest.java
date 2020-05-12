@@ -1,4 +1,4 @@
-package oAuth;
+package oAuth_Misc_Practice;
 import static io.restassured.RestAssured.given;
 
 import java.util.ArrayList;

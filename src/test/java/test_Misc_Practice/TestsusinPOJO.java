@@ -1,4 +1,4 @@
-package test;
+package test_Misc_Practice;
 
 import static io.restassured.RestAssured.given;
 import org.testng.annotations.Test;
