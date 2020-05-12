@@ -12,9 +12,9 @@ Multiparts:		<none>
 Body:
 {
     "accuracy": 50,
-    "name": "Suchi House",
+    "name": "Suchi",
     "phone_number": "\"(+91) 983 893 3937",
-    "address": "29, side layout, cohen 09",
+    "address": "AA House",
     "website": "http://google.com",
     "language": "English",
     "types": [
@@ -27,7 +27,7 @@ Body:
     }
 }
 HTTP/1.1 200 OK
-Date: Tue, 12 May 2020 07:19:52 GMT
+Date: Tue, 12 May 2020 10:29:00 GMT
 Server: Apache/2.4.18 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,17 +40,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "3512ffc655c4ad41e9cc8097ddfc5ce7",
+    "place_id": "44aa4e7490b02f58ff6c6d55ee4bf097",
     "scope": "APP",
-    "reference": "149d68aab7a846b342714e002518c5ab149d68aab7a846b342714e002518c5ab",
-    "id": "149d68aab7a846b342714e002518c5ab"
+    "reference": "a348994bc3d58c7cc9ce3a8a87d4ecc5a348994bc3d58c7cc9ce3a8a87d4ecc5",
+    "id": "a348994bc3d58c7cc9ce3a8a87d4ecc5"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=3512ffc655c4ad41e9cc8097ddfc5ce7
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=44aa4e7490b02f58ff6c6d55ee4bf097
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=3512ffc655c4ad41e9cc8097ddfc5ce7
+				place_id=44aa4e7490b02f58ff6c6d55ee4bf097
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -59,13 +59,13 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 12 May 2020 07:19:54 GMT
+Date: Tue, 12 May 2020 10:29:03 GMT
 Server: Apache/2.4.18 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Content-Length: 253
+Content-Length: 230
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: application/json;charset=UTF-8
@@ -76,9 +76,9 @@ Content-Type: application/json;charset=UTF-8
         "longitude": "33.427365"
     },
     "accuracy": "50",
-    "name": "Suchi House",
+    "name": "Suchi",
     "phone_number": "\"(+91) 983 893 3937",
-    "address": "29, side layout, cohen 09",
+    "address": "AA House",
     "types": "shoe park,shoe",
     "website": "http://google.com",
     "language": "English"
@@ -96,10 +96,10 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "3512ffc655c4ad41e9cc8097ddfc5ce7"
+    "place_id": "44aa4e7490b02f58ff6c6d55ee4bf097"
 }
 HTTP/1.1 200 OK
-Date: Tue, 12 May 2020 07:19:54 GMT
+Date: Tue, 12 May 2020 10:29:04 GMT
 Server: Apache/2.4.18 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
